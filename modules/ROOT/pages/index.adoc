@@ -1,4 +1,4 @@
-= Document Title 
+= Курс по 
 Author Name <ivanov.id@phystech.edu>; 
 v0.5, 04.04.2023
 
@@ -7,11 +7,11 @@ v0.5, 04.04.2023
 == Первые схема
 
 === Мультивибратор в Thinkercad
-    image:: images/thinker.PNG[thinkercad_scheme]
+    image:thinker.PNG[thinkercad_scheme]
     На данном изображении представленна схема собранная в виртувльном редакторе схем.
     Итогом работы схемы являются постоянно горящие светодиоды.
 
 === Мультивибратор на мактной плате 
-    images:: images/real.jpg[real_scheme]
+    image: real.jpg[real_scheme]
     В реализованной схеме ввсиду испольщования RC-цепи и транзисторов получен эффект мигающих светодиодов. 
     
